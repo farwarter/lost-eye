@@ -1,34 +1,28 @@
-![Обложка](https://github.com/farwarter/lost-eye/blob/main/thumbnail2_wide.png)
+![Обложка игры](https://github.com/farwarter/lost-eye/blob/main/thumbnail2_wide.png)
 
-# Описание
-Вы — одноглазый огр, у которого украли глаз. Проходите через ловушки, примеряйте глаза других существ, чтобы видеть лучше, отыщите свое око и прозрейте вновь!
+# Описание :eye:
+Вы — одноглазый огр, у которого украли глаз. Проходите через ловушки, примеряйте глаза других существ, чтобы видеть лучше, и отыщите свое око!
 
-# Управление
-[A], [D] — передвижение
-[Пробел] — прыжок
+# Управление :eye:
+[A], [D] — передвижение\
+[Пробел] — прыжок\
 [Мышь] — смотреть вокруг
 
-# Инструкция по установке
+# Инструкция по установке :eye:
 1. Скачать файл LOST EYE.exe (справа, в разделе Releases)
 2. Запустить файл LOST EYE.exe
 
-# Команда
-@farwarter  — графика, анимации персонажа, музыка, менеджмент
-@Sexy-sushi — программирование, дизайн уровней
+# Об игре :eye:
+Сделано для Siberian Game Jam Nov 2025, тема: прозрение\
+Опубликовано на ![Иконка itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) по [ссылке](https://farwarter.itch.io/lost-eye).
+
+## Инструменты
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white), Aseprite, FL Studio
+
+## Метки
+Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
+
+## Команда
+@farwarter  — графика, анимации персонажа, музыка, менеджмент\
+@Sexy-sushi — программирование, дизайн уровней\
 @kamilf2002 — программирование, звуки, анимации предметов
-
-Инструменты: Aseprite, Godot, FL Studio
-
-Сделано для Siberian Game Jam Nov 2025, тема: прозрение
-
-Метки:	Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
-
-
-
-
-
-
-
-
-
-
