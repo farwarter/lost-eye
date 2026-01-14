@@ -9,17 +9,18 @@
 [Мышь] — смотреть вокруг
 
 **Инструкция по установке:**
-Скачать файл LOST EYE.exe (справа в Releases)
-Запустить файл LOST EYE.exe
-
-Инструменты: Aseprite, Godot, FL Studio
+1. Скачать файл LOST EYE.exe (справа в Releases)
+2. Запустить файл LOST EYE.exe
 
 **Команда**
 @farwarter  — графика, анимации персонажа, музыка
 @Sexy-sushi — программирование, дизайн уровней
 @kamilf2002 — программирование, звуки, анимации предметов
 
+Инструменты: Aseprite, Godot, FL Studio
+
 Сделано для Siberian Game Jam Nov 2025, тема: прозрение
 
 Метки:	Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
+
 
