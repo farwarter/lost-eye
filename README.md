@@ -1,4 +1,4 @@
-![Обложка](https://github.com/farwarter/lost-eye/blob/main/thumbnail2.png)
+![Обложка](https://github.com/farwarter/lost-eye/blob/main/thumbnail2_wide.png)
 
 # Описание
 Вы — одноглазый огр, у которого украли глаз. Проходите через ловушки, примеряйте глаза других существ, чтобы видеть лучше, отыщите свое око и прозрейте вновь!
@@ -22,6 +22,7 @@
 Сделано для Siberian Game Jam Nov 2025, тема: прозрение
 
 Метки:	Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
+
 
 
 
