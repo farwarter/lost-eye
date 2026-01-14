@@ -23,6 +23,6 @@
 Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
 
 ## Команда
-@farwarter  — графика, анимации персонажа, музыка, менеджмент\
-@Sexy-sushi — программирование, дизайн уровней\
-@kamilf2002 — программирование, звуки, анимации предметов
+[farwarter](https://github.com/farwarter)  — графика, анимации персонажа, музыка, менеджмент\
+[Sexy-sushi](https://github.com/Sexy-sushi) — программирование, дизайн уровней\
+[kamilf2002](https://github.com/kamilf2002) — программирование, звуки, анимации предметов
