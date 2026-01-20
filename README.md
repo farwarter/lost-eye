@@ -17,12 +17,13 @@
 Опубликовано на ![Иконка itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) по [ссылке](https://farwarter.itch.io/lost-eye).
 
 ## Инструменты
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white), Aseprite, FL Studio
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) | Aseprite | FL Studio
 
 ## Метки
-Platformer, Adventure, 2D, Indie, No AI, Pixel Art, Singleplayer
+Platformer | Adventure | 2D | Indie | No AI | Pixel Art | Singleplayer
 
 ## Команда
 [farwarter](https://github.com/farwarter)  — графика, анимации персонажа, музыка, менеджмент\
 [Sexy-sushi](https://github.com/Sexy-sushi) — программирование, дизайн уровней\
 [kamilf2002](https://github.com/kamilf2002) — программирование, звуки, анимации предметов
+
